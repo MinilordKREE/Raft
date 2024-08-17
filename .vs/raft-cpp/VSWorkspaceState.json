@@ -1,0 +1,8 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "raft-cpp\\out\\build\\x64-Debug",
+      "raft-cpp\\out\\install\\x64-Debug"
+    ]
+  }
+}
